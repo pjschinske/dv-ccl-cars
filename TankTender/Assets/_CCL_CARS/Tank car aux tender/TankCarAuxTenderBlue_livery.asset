@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 945288799, guid: b247489fc36790c41b197410cd8386d9, type: 3}
+  m_Name: TankCarAuxTenderBlue_livery
+  m_EditorClassIdentifier: 
+  parentType: {fileID: 11400000, guid: 2a2aed6fbed595242a6bdcccee640efc, type: 2}
+  id: TankCarAuxTenderBlue
+  NameTranslationJson: '[{"Language":"English","Value":"Tank car aux tender blue"}]'
+  NameTranslations:
+    Items:
+    - Language: 0
+      Value: Tank car aux tender blue
+  icon: {fileID: 0}
+  localizationKey: ccl/livery/TankCarAuxTenderBlue
+  prefab: {fileID: 2633800344947039924, guid: 869649246b44a75498c252fa3bf599ab, type: 3}
+  interiorPrefab: {fileID: 0}
+  explodedInteriorPrefab: {fileID: 0}
+  externalInteractablesPrefab: {fileID: 1312500395324393714, guid: 71ff9c6dc98ad0541bb7ba75c37f7b57,
+    type: 3}
+  explodedExternalInteractablesPrefab: {fileID: 0}
+  FrontBogie: 200
+  RearBogie: 200
+  BufferType: 300
+  HasMUCable: 0
+  UseCustomHosePositions: 0
+  HideHookPlates: 0
+  HideFrontCoupler: 0
+  HideBackCoupler: 0
+  TrainsetLiveries: []
+  LocoSpawnGroups: []
+  _spawnGroupJson: '[]'
+  UnlockableAsWorkTrain: 1
+  UnlockPrice: 20000
+  SummonPrice: 3000
+  CatalogPage: {fileID: 0}
+  buttonRender: 0
