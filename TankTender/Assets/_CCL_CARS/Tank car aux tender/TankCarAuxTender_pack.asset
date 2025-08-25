@@ -15,9 +15,9 @@ MonoBehaviour:
   PackId: TankCarAuxTender
   PackName: Tank Car Aux Tender
   Author: SatiricRug
-  Version: 0.1.0
+  Version: 1.0.0
   HomePage: https://www.nexusmods.com/derailvalley/mods/1255
-  Repository: 
+  Repository: https://raw.githubusercontent.com/pjschinske/dv-ccl-cars/main/release/TankCarAuxTender_repo.json
   Cars:
   - {fileID: 11400000, guid: 2a2aed6fbed595242a6bdcccee640efc, type: 2}
   ExtraModels: []
