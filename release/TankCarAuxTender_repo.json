@@ -1,0 +1,9 @@
+{
+	"Releases": [
+		{
+			"Id": "LocoMeshSplitter",
+			"Version": "0.1.0",
+			"DownloadUrl": "https://github.com/pjschinske/dv-ccl-cars/blob/b976b6b0392e0d0d2185a825079b7f13e7bcfcb2/release/TankCarAuxTender_v0.1.0.zip"
+		}
+	]
+}
